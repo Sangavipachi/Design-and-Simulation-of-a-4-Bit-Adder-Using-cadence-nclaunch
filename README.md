@@ -100,7 +100,8 @@ endmodule
 ![Screenshot 2025-05-21 155538](https://github.com/user-attachments/assets/187ebe28-40e2-44b2-9b78-d08bdc67d62c)
 
 ### Simulation Waveforms
-<img width="1915" height="986" alt="Screenshot 2025-11-05 153148" src="https://github.com/user-attachments/assets/efe24c16-35fe-41ab-842e-2f883f7409fc" />
+<<img width="1915" height="986" alt="Screenshot 2025-11-05 153148" src="https://github.com/user-attachments/assets/3a6e96a5-9bcb-4660-898e-448edcdec628" />
+
 
 
 
